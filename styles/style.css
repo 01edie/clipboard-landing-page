@@ -273,6 +273,7 @@ footer .footer-left{
   display: flex;
   gap: 4rem;
   align-items: center;
+  
 }
 .quick-links{
   margin-left: 3rem;
@@ -388,6 +389,7 @@ footer .footer-left{
   .footer-left{
     gap: 3rem !important;
     text-align: center;
+    flex-direction: column;
   }
   .quick-links{
     flex-direction: column;
